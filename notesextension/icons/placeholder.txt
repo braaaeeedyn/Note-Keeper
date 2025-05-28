@@ -1,0 +1,14 @@
+This is a placeholder file.
+
+For a complete working extension, you'll need to add actual image files here:
+- icon16.png, icon48.png, icon128.png for the extension icon
+- noteicon1.png through noteicon8.png for the note icons
+
+These can be any image files in PNG format of the appropriate sizes:
+- Extension icons: 16x16, 48x48, and 128x128 pixels
+- Note icons: around 24x24 pixels would be ideal
+
+You can create these icons using any image editor or download free icons from sites like:
+- https://www.flaticon.com/
+- https://material.io/resources/icons/
+- https://fontawesome.com/icons 
